@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WifiSpotsActivity!</string>
+    <string name="app_name">WifiSpots</string>
+    <string name="add_network">Add Network</string>
+</resources>
